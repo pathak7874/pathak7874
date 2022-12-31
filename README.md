@@ -1,3 +1,4 @@
+![logo](https://github.com/pathak7874/pathak7874/blob/main/Black%20Modern%20Marketing%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vipin Pathak</h1>
 <h3 align="center">A passionate Python & Machine learning developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
