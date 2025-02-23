@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Algoexpert**
 
-- 📫 How to reach me **vpinpathak7874@gmail.com,vipinpathak7838@gmail.com,https://pathak7874.github.io/Portfolio_Vipin_Pathak/**
+- 📫 How to reach me **vpinpathak7874@gmail.com,vipinpathak7838@gmail.com,
+-    https://pathak7874.github.io/Portfolio_Vipin_Pathak/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
